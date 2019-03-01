@@ -5,4 +5,5 @@ In medical practice there is a disproportionate use of healthcare resources and 
 
 We work with accredited healthcare facilities and providers that have been screened and have met State and Federal standards. It is completely free to sign up. Register your healthcare facility today for screening and approval.
 Url: https://clinicgoto.com/
+
 play store: https://play.google.com/store/apps/details?id=com.clinicgoto.clinics
